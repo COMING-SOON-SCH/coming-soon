@@ -71,7 +71,6 @@ const ActivityPage: React.FC = () => {
 
   return (
     <div>
-      <Navbar />
       <div className="container mx-auto p-4">
         <div className="text-4xl font-bold text-center my-8">Activity</div>
         <p className="text-center mb-10">
