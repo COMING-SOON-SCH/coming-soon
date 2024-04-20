@@ -8,6 +8,9 @@ const Navbar: React.FC = () => {
             ABOUT
           </a>
           <a href="#" className="hover:text-gray-300">
+            MEMBER
+          </a>
+          <a href="#" className="hover:text-gray-300">
             TRACKS
           </a>
           <a href="#" className="hover:text-gray-300">
