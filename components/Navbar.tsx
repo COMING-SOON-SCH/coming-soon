@@ -18,7 +18,7 @@ const Navbar: React.FC = () => {
 
   return (
     <nav className="bg-blue-900 text-white py-4">
-      <div className="container mx-auto flex justify-between items-center relative">
+      <div className="container  px-4 mx-auto flex justify-between items-center relative">
         <Link href="/">
           <div className="text-lg font-bold">COMING SOON</div>
         </Link>
